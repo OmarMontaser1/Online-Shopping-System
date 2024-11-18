@@ -1,0 +1,20 @@
+Online shopping system:
+1-Product
+-Seller
+
+2-Product Type  (Tech,Food,Books)
+
+3-Rating (User+String+Score)
+4-Orders(Shippig,expected,Product,Total pRICE,RECIEPT)
+2-User (Customer , Admin)
+2.2-Profile Details
+2.3-User name and password
+
+3-Promotions(Super class)->Coupons,off 
+
+4-Membership Type-> Standard,Prime,etc..
+
+5-Type Of Data
+
+6-Shopping Cart
+
